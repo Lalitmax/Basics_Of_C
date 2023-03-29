@@ -1,0 +1,26 @@
+
+1. student 
+ (i).  student name -> Lalit_kumar_yadav
+ (ii).  student marks -> 322
+ (iii).  student cgpa -> 7.600000
+ (iv).  student course -> Btech
+2. student 
+ (i).  student name -> Rahul_Yadav
+ (ii).  student marks -> 276
+ (iii).  student cgpa -> 5.500000
+ (iv).  student course -> ba
+3. student 
+ (i).  student name -> Raushan_kumar
+ (ii).  student marks -> 315
+ (iii).  student cgpa -> 6.300000
+ (iv).  student course -> gnm
+4. student 
+ (i).  student name -> saroj_yadav
+ (ii).  student marks -> 276
+ (iii).  student cgpa -> 5.500000
+ (iv).  student course -> ba
+5. student 
+ (i).  student name -> Raj_kumar
+ (ii).  student marks -> 336
+ (iii).  student cgpa -> 67.699997
+ (iv).  student course -> ba
